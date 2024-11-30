@@ -25,7 +25,8 @@ Copy code/solutions from:      No	          No	          No	            No
 
 
 ### Notes from the student (any of this could be subject to change):
-+ All the professors lecture the same curriculum and give the same coursework, which Autolab grades. The instructions for each assignment are available on the CS111 website. 
++ All the professors lecture the same curriculum and give the same coursework, which Autolab grades. The instructions for each assignment are available on the CS111 website.
++ Assignment 1 is in Pseudocode (might add at a later date)
 
 ### Important to note: 
 + The assignments are visible on Canvas but provide no useful insight.
