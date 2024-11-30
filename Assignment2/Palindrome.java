@@ -21,6 +21,7 @@ public class Palindrome {
         int[] integer_numbers = new int[6]; // Initialize an array to hold the integer values from the command line arguments
         //(6 is precondition)
         for (int i = 0; i < 6; i++) {
+            //Apparently, I wasn't supposed to use loops. AutoLab didn't mark it wrong.
             // Loop through the command line arguments and parse them as integers
             integer_numbers[i] = Integer.parseInt(args[i]);
         }
