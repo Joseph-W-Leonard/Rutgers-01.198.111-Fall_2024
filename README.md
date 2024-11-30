@@ -26,17 +26,17 @@ Copy code/solutions from:      No	          No	          No	            No
 
 
 Notes from the student (any of this could be subject to change):
-+All the professors lecture the same curriculum and give the same coursework, which Autolab grades. The instructions for each assignment are available on the CS111 website. 
++ All the professors lecture the same curriculum and give the same coursework, which Autolab grades. The instructions for each assignment are available on the CS111 website. 
 
 #Important to note: 
-+The assignments are visible on Canvas but provide no useful insight.
-+All communications are via Piazza.
-+Expect the assignments to be posted with missing or incomplete files and fixed later (check Piazza for updates).
-+Download the assignment zip files from AutoLab.
-+AutoLab has an AI and plagarism detector.
-+Your TA can assist with the concepts taught.
-+It is forbidden to seek or receive assistance with programming assignments from the TAs or AI.
-+There are two midterms and one final (see exams folder).
-+Each week, a recitation block takes attendance (lectures don't).
-+Every Sunday, there is a 2-3 question "quiz" (free points, very easy).
-+Assignments are due at **11 pm**
++ The assignments are visible on Canvas but provide no useful insight.
++ All communications are via Piazza.
++ Expect the assignments to be posted with missing or incomplete files and fixed later (check Piazza for updates).
++ Download the assignment zip files from AutoLab.
++ AutoLab has an AI and plagarism detector.
++ Your TA can assist with the concepts taught.
++ It is forbidden to seek or receive assistance with programming assignments from the TAs or AI.
++ There are two midterms and one final (see exams folder).
++ Each week, a recitation block takes attendance (lectures don't).
++ Every Sunday, there is a 2-3 question "quiz" (free points, very easy).
++ Assignments are due at **11 pm**
