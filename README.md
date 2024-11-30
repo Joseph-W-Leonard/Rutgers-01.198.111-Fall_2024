@@ -2,6 +2,8 @@
 ## This repository contains the AutoLab coursework for the Fall 2024 Semester
 https://introcs.cs.rutgers.edu/
 
+Most of the words are copy/paste from the website in case they make alterations.
+
 Syllabus – Fall 2024
 * Welcome to Introduction to Computer Science, CS111. In this course you will be introduced to fundamental concepts in programming. After completing the course the student will be able to:
 
