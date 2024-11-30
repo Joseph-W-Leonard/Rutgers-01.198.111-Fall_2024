@@ -1,7 +1,6 @@
 # Rutgers 01:198:111 Introduction to Computer Science -- Fall 2024
 ## This repository contains the AutoLab coursework for the Fall 2024 Semester
-
-/*
+https://introcs.cs.rutgers.edu/
 
 Syllabus – Fall 2024
 * Welcome to Introduction to Computer Science, CS111. In this course you will be introduced to fundamental concepts in programming. After completing the course the student will be able to:
@@ -15,8 +14,6 @@ Syllabus – Fall 2024
 * Demonstrate an understanding of searching and sorting algorithms.
 * We use pseudocode and the Java programming language for all assignments and exams in the course, but many Java features, such as applets, GUI programming, Java Server Pages (JSP), etc., are not covered.
 
-*/
-
 	                        Course staff   Classmates   Other people   AI Chatbots
 Discuss concepts with:        Yes	          Yes	          Yes	            No
 
@@ -27,7 +24,7 @@ Expose code/solutions to:     Yes	          No	          No	            No
 Copy code/solutions from:      No	          No	          No	            No
 
 
-Notes from the student (any of this could be subject to change):
+### Notes from the student (any of this could be subject to change):
 + All the professors lecture the same curriculum and give the same coursework, which Autolab grades. The instructions for each assignment are available on the CS111 website. 
 
 ### Important to note: 
